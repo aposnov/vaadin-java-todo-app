@@ -71,9 +71,9 @@ node_modules/
 node/
 
 # Vaadin frontend
-/frontend/node_modules/
-/frontend/generated/
-/frontend/build/
+src/main/frontend/node_modules/
+src/main/frontend/generated/
+src/main/frontend/build/
 
 # Other
 npm-debug.log*
